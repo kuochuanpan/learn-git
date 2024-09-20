@@ -10,3 +10,4 @@ You could download git from `http:s//github.com`.
 ## Tutorials
 
 1. step one, ...
+2. new changes in the develop branch
